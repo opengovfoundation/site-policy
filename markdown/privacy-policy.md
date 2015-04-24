@@ -12,7 +12,7 @@ OpenGov does not sell or rent member, donor or website visitor information under
 
 ### Logging
 
-For visitors to our main website (www.OpenGovFoundation.org) and to Madison, we generally log requests. Circumstances in which OpenGov may need to log and retain technical information for longer than seven days include when we believe it is reasonably necessary for OpenGov’s mission and functionality, including situations such as:
+For visitors to our main website (www.OpenGovFoundation.org) and to Madison, we generally log requests. Circumstances in which OpenGov may need to log and retain technical information for longer than seven days include when we believe it is reasonably necessary for OpenGov's mission and functionality, including situations such as:
 
 *   site testing
 *   diagnosis of technical problems
@@ -20,7 +20,7 @@ For visitors to our main website (www.OpenGovFoundation.org) and to Madison, we 
 *   handling a spike in traffic or other abnormal, short-term circumstances, or
 *   research projects ( in anonymized form ) that serve our overall mission.
 
-In those and similar situations we will delete the information as soon as it is apparent that the information is no longer needed for the purpose for which it was retained. For more information on data logging and techniques OpenGov intends to use to anonymize, obfuscate, aggregate and delete information, see The Electronic Frontier Foundation’s (EFF) [Best Practices for Online Service Providers.](https://www.eff.org/wp/osp)
+In those and similar situations we will delete the information as soon as it is apparent that the information is no longer needed for the purpose for which it was retained. For more information on data logging and techniques OpenGov intends to use to anonymize, obfuscate, aggregate and delete information, see The Electronic Frontier Foundation's (EFF) [Best Practices for Online Service Providers.](https://www.eff.org/wp/osp)
 
 ### Cookies
 
@@ -60,13 +60,13 @@ We may run surveys, contests, or similar activities through this site. Such info
 
 ### Third-Party Service Providers to OpenGov
 
-Portions of OpenGov sites may be operated by a third-party service provider or providers. These service providers may place session cookies on your computer. OpenGov’s service providers may also log standard technical information, such as the numerical Internet Protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. Our service providers may also store and organize the personal information collected through this site on our behalf.
+Portions of OpenGov sites may be operated by a third-party service provider or providers. These service providers may place session cookies on your computer. OpenGov's service providers may also log standard technical information, such as the numerical Internet Protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. Our service providers may also store and organize the personal information collected through this site on our behalf.
 
-OpenGov also may use a third-party credit card processor and hosting providers. For all of OpenGov's service providers, hosting providers and credit card processors and any other providers we may use in the future, the information collected from OpenGov supporters remains under our control, and our agreement with each will require the information to be kept confidential and disclosed only to employees who require such access in the course of their assigned duties. OpenGov also requires all of our third-party service providers to notify OpenGov if they receive legal process seeking information about visitors to OpenGov’s website or users of OpenGov products, software or services.
+OpenGov also may use a third-party credit card processor and hosting providers. For all of OpenGov's service providers, hosting providers and credit card processors and any other providers we may use in the future, the information collected from OpenGov supporters remains under our control, and our agreement with each will require the information to be kept confidential and disclosed only to employees who require such access in the course of their assigned duties. OpenGov also requires all of our third-party service providers to notify OpenGov if they receive legal process seeking information about visitors to OpenGov's website or users of OpenGov products, software or services.
 
 OpenGov may change the specific third-party providers from time to time, and will transfer stored information to any new provider subject to similar restrictions and agreements. From time to time, OpenGov may work with third-party consultants or other service providers who may have access to personally identifiable information. In such cases, we will restrict their use of personally identifiable information in accordance with their assigned tasks.
 
-OpenGov's websites may also provide links to a wide variety of third-party websites, including interactive links to sites like Twitter or mapping services. OpenGov is not responsible for, and does not have any control over, the privacy practices or the content of such third parties. We encourage users to read the privacy policies of any website visited via links from OpenGov’s websites.
+OpenGov's websites may also provide links to a wide variety of third-party websites, including interactive links to sites like Twitter or mapping services. OpenGov is not responsible for, and does not have any control over, the privacy practices or the content of such third parties. We encourage users to read the privacy policies of any website visited via links from OpenGov's websites.
 
 We do occasionally allow our website to interact with other services, like social networking, mapping, and video hosting websites. It is our policy not to include third-party resources when users initially load our web pages, but we may dynamically include them later after giving the user a chance to opt-in. If you believe a third-party resource is automatically loading, please let us know so we can address it.
 

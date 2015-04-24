@@ -4,13 +4,13 @@ _Last Updated January 22, 2014_
 
 We have taken every effort to design Madison to be useful, informative, helpful, honest and fun. Hopefully we've accomplished that - and would ask that you let us know if you'd like to see improvements or changes that would make it even easier for you to find and use the information you need and want.
 
-All we ask is that you agree to abide by the following Terms and Conditions. Take a few minutes to look them over because by using our site you automatically agree to them. Naturally, if you don't agree, [please click here to tell us why and how you’d improve them](mailto:sayhello@opengovfoundation.org). We reserve the right to make any modifications that we deem necessary at any time. We will post such modifications on this page and, should the modifications be significant, advise by email Madison users and those who have requested updates via this website. Your continued use of Madison and other OpenGov websites means that you accept those changes.
+All we ask is that you agree to abide by the following Terms and Conditions. Take a few minutes to look them over because by using our site you automatically agree to them. Naturally, if you don't agree, [please click here to tell us why and how you'd improve them](mailto:sayhello@opengovfoundation.org). We reserve the right to make any modifications that we deem necessary at any time. We will post such modifications on this page and, should the modifications be significant, advise by email Madison users and those who have requested updates via this website. Your continued use of Madison and other OpenGov websites means that you accept those changes.
 
 Thanks again for visiting and helping make governments and government information more open, accessible and participatory.
 
 ## Treat Other Users the Way You Want to be Treated
 
-Also known as The Golden Rule of OpenGov. We’re all in this open government world together, so please be kind to other users.
+Also known as The Golden Rule of OpenGov. We're all in this open government world together, so please be kind to other users.
 
 ## Submitting Your Online Material via Madison
 

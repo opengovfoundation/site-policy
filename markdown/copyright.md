@@ -49,6 +49,6 @@ Please note that under Section 512(f) of the Copyright Act, any person who knowi
 
 After we receive your counter-notification, we will forward it to the party who submitted the original claim of copyright infringement. Please note that when we forward the counter-notification, it includes your personal information. If you are concerned about protecting your anonymity, please consult with an attorney about other options.
 
-After we send out the counter-notification, the claimant must then notify us within 10 business days that the claimant has filed an action seeking a court order to restrain you from engaging in infringing activity relating to the material on OpenGov’s site. If we receive such notification we will be unable to restore the material. If we do not receive such notification, generally we will reinstate the material.
+After we send out the counter-notification, the claimant must then notify us within 10 business days that the claimant has filed an action seeking a court order to restrain you from engaging in infringing activity relating to the material on OpenGov's site. If we receive such notification we will be unable to restore the material. If we do not receive such notification, generally we will reinstate the material.
 
 Please also be advised that in appropriate circumstances we terminate repeat infringers.
