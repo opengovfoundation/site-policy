@@ -23,9 +23,9 @@ If you don't want to learn Markdown and still want to contribute, feel free to [
 ### The Easy Way ###
 You can edit the files directly using the links below, no account or GitHub experience needed!
 
-* Privacy Policy
-* Terms of Service
-* Copyright
+* [Privacy Policy](https://editfordc.herokuapp.com/document/151a31d9-306f-4cd7-8dc9-02404f3fa821)
+* [Terms of Service](https://editfordc.herokuapp.com/document/9c98564a-6f44-4060-ad8e-4ce06f9a2167)
+* [Copyright](https://editfordc.herokuapp.com/document/61e5afcb-58c3-4694-b7ba-ca35eec969cf)
 
 ### The Advanced Way ###
 If you are familiar with GitHub, please fork the repo and send a pull request.
