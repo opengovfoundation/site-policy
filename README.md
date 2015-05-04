@@ -1,6 +1,6 @@
 # site-policy
 
-Website policy documents as originally used in [Madison](https://mymadison.io) by [The OpenGov Foundation](http://opengovfoundation.org/).  These are all released under the [CC0 License](LICENSE), so feel free to steal and reuse them!
+Website policy documents as originally used in [Madison](https://mymadison.io) by [The OpenGov Foundation](http://opengovfoundation.org/).  All of these documents are being released with open licenses, meaning they're **absolutely free to use**.  This will allow any person or organization - **for profit or not for profit** - to copy, edit, rewrite, and distribute them at no cost!  They are [Creative Commons CC0 Licensed](https://creativecommons.org/publicdomain/zero/1.0/), dedicating them to the public domain.
 
 ## Available Files
 
