@@ -2,6 +2,13 @@
 
 Website policy documents as originally used in [Madison](https://mymadison.io) by [The OpenGov Foundation](http://opengovfoundation.org/).  All of these documents are being released with open licenses, meaning they're **absolutely free to use**.  This will allow any person or organization - **for profit or not for profit** - to copy, edit, rewrite, and distribute them at no cost!  They are [Creative Commons CC0 Licensed](https://creativecommons.org/publicdomain/zero/1.0/), dedicating them to the public domain.
 
+## Disclaimer
+This was created based on United States law, and if you're not in the US the policies here might not be legal wherever you are.
+
+We are not lawyers, and cannot give you legal advice or tell you what is best for your organization.  You should have an actual lawyer review these documents before you use them in the first place.  If you have any questions, ask a lawyer.
+
+We cannot be held responsible for any legal trouble that these documents get you into.  You're using them of your own accord.  We're providing them as-is with no warranty.  Seriously, please don't sue us.
+
 ## Available Files
 
 The following files are available in a variety of formats - use the links below to download them directly.
